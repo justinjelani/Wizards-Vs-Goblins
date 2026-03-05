@@ -1,0 +1,13 @@
+{
+    "coins": 0,
+    "damage": 15,
+    "healAmount": 20,
+    "health": 100,
+    "level": 1,
+    "maxHealth": 100,
+    "maxStamina": 100,
+    "saveVersion": 1,
+    "speed": 500.0,
+    "stamina": 0,
+    "staminaRegen": 5
+}
