@@ -8,8 +8,7 @@ A 2D action game where players take control of a wizard to battle waves of gobli
 
 - [Gameplay](#gameplay)  
 - [Features](#features)  
-- [Controls](#controls)  
-- [Installation](#installation)  
+- [Controls](#controls)   
 - [Future Improvements](#future-improvements)  
 - [Contributing](#contributing)  
 
@@ -27,7 +26,8 @@ In **2D Wizards vs Goblins**, you play as a wizard defending your territory from
 - Multiple goblin enemies with basic AI.  
 - Attack system with spells.  
 - Health and damage system for both player and enemies.  
-- Score tracking for waves defeated.  
+- Score tracking for waves defeated.
+- Menu selection with multiples saves  
 
 **Note:** Upgrading abilities and player stats is not yet implemented but is planned for future updates.
 
